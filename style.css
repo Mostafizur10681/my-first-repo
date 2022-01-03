@@ -5,3 +5,7 @@ h1{
 h3{
     color: crimson;
 }
+.building{
+    height: 100px;
+    width: 100px;
+}
